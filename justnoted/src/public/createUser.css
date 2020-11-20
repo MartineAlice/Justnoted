@@ -1,0 +1,66 @@
+.sansserif{
+    font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: left;
+}
+
+
+body {
+  margin: 10px;
+}
+
+  .card {
+      padding-top: 20px;
+  }
+  input[type=text] {
+    width: auto;
+    padding: 10px 40px;
+    margin: 8px 45px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: rgb(41, 41, 41);
+  }
+
+input[type=email] {
+  width: auto%;
+  padding: 10px 40px;
+  margin: 8px 70px;
+  box-sizing: border-box;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color: #ffffff;
+  color: rgb(41, 41, 41);
+}
+
+
+  input[type=password] {
+    width: auto;
+    padding: 10px 40px;
+    margin: 8px 48px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: rgb(41, 41, 41);
+  }
+  .footer {
+    background-color: rgb(180, 179, 179);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
